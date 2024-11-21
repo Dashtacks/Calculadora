@@ -11,7 +11,7 @@ import com.agenciacristal.calculadora.R
 import java.text.DecimalFormat
 
 class MainActivity : AppCompatActivity() {
-    val SUMA = "+"
+    val SUMA = " + "
     val RESTA = "-"
     val MULTIPLICACION = "*"
     val DIVISION = "/"
